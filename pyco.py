@@ -28,7 +28,8 @@ print(Person1.full_name())
 print(Person1.initials())
 print(Person1.email())
 
-# Bread Making
+# Baking
+
 class BakingPan:
     unit_price = 5
     expirie = 2
